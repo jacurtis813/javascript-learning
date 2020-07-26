@@ -27,5 +27,7 @@ Let's Begin.
 18. Start watching the next content of video lectures. The next excercise to follow will be the age calculator.
 19. Comment out the first section and the first excercise. Clear the canvas for the second excercise.
 20. Create the first line of javascript code for the second excercise. Test and run. 
-21. 
+21. Create the full script to build what will be the age calculator and have the solution show as an alert.
+22. Complete the second section and complete the second excercise.
+
 
