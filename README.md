@@ -24,4 +24,8 @@ Let's Begin.
 15. Create the second portion of javascript for the js stalker. Ending with the console.log to print the input in the console.
 16. Condense code, How we can create more beautifully written code making things look cleaner in our js file. 
 17. Test and run that the javascript that we have written works with our lading page.
+18. Start watching the next content of video lectures. The next excercise to follow will be the age calculator.
+19. Comment out the first section and the first excercise. Clear the canvas for the second excercise.
+20. Create the first line of javascript code for the second excercise. Test and run. 
+21. 
 
