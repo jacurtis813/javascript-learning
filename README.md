@@ -19,3 +19,5 @@ Let's Begin.
 10. Create our first line of javascript within the js file. Using the var, alert, prompt and the console.log
 11. Create the script link from the js file to the html file.
 12. Test and run the code that we have create within the js file.
+13. Create further content within the html, this will be the list to follow. Create our first few lines of script on our own.
+14. 
