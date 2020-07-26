@@ -9,4 +9,6 @@ Let's Begin.
 ## Breakdown:
 1. Start by creating the README file, to showcase what the purpose of these files will be.
 2. Create the content within the README. Set up the file to begin the learning lesson.
-3. 
+3. Create the html file for the learning lesson. 
+4. Set up the basic content for the html file.
+5. 
