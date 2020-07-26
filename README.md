@@ -13,4 +13,6 @@ Let's Begin.
 4. Set up the basic content for the html file.
 5. Create the folder of 'assets' to hold the folders for js files and css files.
 6. Create the css folder. Create the stylesheet file within the folder.
+7. Create the js folder. Create the first javascript file within the folder.
+8. Set up all files that are needed to follow along with the lecture/ lesson of this content.
 
