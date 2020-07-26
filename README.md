@@ -11,4 +11,6 @@ Let's Begin.
 2. Create the content within the README. Set up the file to begin the learning lesson.
 3. Create the html file for the learning lesson. 
 4. Set up the basic content for the html file.
-5. 
+5. Create the folder of 'assets' to hold the folders for js files and css files.
+6. Create the css folder. Create the stylesheet file within the folder.
+
