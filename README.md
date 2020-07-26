@@ -20,4 +20,8 @@ Let's Begin.
 11. Create the script link from the js file to the html file.
 12. Test and run the code that we have create within the js file.
 13. Create further content within the html, this will be the list to follow. Create our first few lines of script on our own.
-14. 
+14. Create the first portion of javascript for the js stalker excercise. Starting with the variables.
+15. Create the second portion of javascript for the js stalker. Ending with the console.log to print the input in the console.
+16. Condense code, How we can create more beautifully written code making things look cleaner in our js file. 
+17. Test and run that the javascript that we have written works with our lading page.
+
