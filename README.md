@@ -43,4 +43,7 @@ Let's Begin.
 34. Let's begin in this continued section. Create a further step to the guessing game within the js files.
 35. Create the comments next to each step for better understanding for what each step is performing. 
 36. Test and run all the script code that we have created. All working as the code should.
-
+37. Introduction of loops, what they are and how they work. The full understanding of loops.
+38. Understanding while loops, the concept and the how they work. 
+39. Comment out the html file and the js file that we currently have set within learning files. Set up to perform the next excercise
+40. 

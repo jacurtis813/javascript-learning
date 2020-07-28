@@ -8,13 +8,12 @@ var fullName = firstName + " " + lastName
 console.log("Your full name is " + fullName);
 console.log("you are " + age + " years old");
 
- Second section script
+// Second section script
 var age = prompt("What is your age?");
 
 var days = age * 365.25;
 alert(age + "  years is roughly  " + days + "  days");
-comment out the code so that we can create another small
-project within the same file for the same lesson */
+//
 
 // third section
 var secretNumber = 4;  // our correct secret number
@@ -33,3 +32,4 @@ else if(guess > secretNumber) {  // states that if the guess is greater than the
 else {  // states that if neither of the above tests are ran that this will be the final stage to check/ test. if not equal alert to guess again
     alert("Too low, guess higher.") // this is the method of alert once more
 }
+*/
