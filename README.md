@@ -39,3 +39,8 @@ Let's Begin.
 30. Next, create the script to perorm those tasks. We will start with setting our variables.
 31. After we have created the variables we will need to assign a method to interp. the data.
 32. Test and run the script that we have created. All works as it should within the browser.
+33. We will now create a step further for the number game, to create the code that will check if the number is lower or higher than the users guess.
+34. Let's begin in this continued section. Create a further step to the guessing game within the js files.
+35. Create the comments next to each step for better understanding for what each step is performing. 
+36. Test and run all the script code that we have created. All working as the code should.
+

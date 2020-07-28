@@ -17,14 +17,19 @@ comment out the code so that we can create another small
 project within the same file for the same lesson */
 
 // third section
-var secretNumber = 4;
+var secretNumber = 4;  // our correct secret number
 
-var guess = prompt("Guess a number ");
+var stringGuess = prompt("Guess a number "); // states that name of stringGuess is set to assign a prompt to "guess a number?"
+var guess = Number(stringGuess);  // states that the stringGuess being wrapped in quotes will now be a full number rather than a string. 
 
-if(Number(guess) === secretNumber) {
-    alert("YOU GOT IT RIGHT!!");
+if(guess === secretNumber) {  // states that if the guess which is also the stringGuess, is equal to the secret number than the user got it right
+    alert("YOU GOT IT RIGHT!!"); // this is the method to alert the user of their input that was prompted
 }
 
-else {
-    alert("Wrong guess!!");
+else if(guess > secretNumber) {  // states that if the guess is greater than the secretnumber, to alert the user they need to guess again
+    alert("Too high, guess lower."); // this is the method to alert the user of their input that was prompted
+}
+
+else {  // states that if neither of the above tests are ran that this will be the final stage to check/ test. if not equal alert to guess again
+    alert("Too low, guess higher.") // this is the method of alert once more
 }
