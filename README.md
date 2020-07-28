@@ -33,4 +33,6 @@ Let's Begin.
 24. Watch the video lecture to review the openeing section on the content for javascript.
 25. Begin watching new video lecture content. Overview of boolean logic statments.
 26. Begin video lecture for the use of operators and the the main concept of conditional statements.
+27. Clear/ Comment out the code that we have create for the first and the second code along sections.
+28. Set up the files to begin creating a new small excercise code along to follow the video lectures.
 
