@@ -16,3 +16,15 @@ alert(age + "  years is roughly  " + days + "  days");
 comment out the code so that we can create another small
 project within the same file for the same lesson */
 
+// third section
+var secretNumber = 4;
+
+var guess = prompt("Guess a number ");
+
+if(Number(guess) === secretNumber) {
+    alert("YOU GOT IT RIGHT!!");
+}
+
+else {
+    alert("Wrong guess!!");
+}

@@ -35,4 +35,7 @@ Let's Begin.
 26. Begin video lecture for the use of operators and the the main concept of conditional statements.
 27. Clear/ Comment out the code that we have create for the first and the second code along sections.
 28. Set up the files to begin creating a new small excercise code along to follow the video lectures.
-
+29. Create a number guessing game for the user when the landing page opens up. Start with setting up the html file.
+30. Next, create the script to perorm those tasks. We will start with setting our variables.
+31. After we have created the variables we will need to assign a method to interp. the data.
+32. Test and run the script that we have created. All works as it should within the browser.
