@@ -29,5 +29,8 @@ Let's Begin.
 20. Create the first line of javascript code for the second excercise. Test and run. 
 21. Create the full script to build what will be the age calculator and have the solution show as an alert.
 22. Complete the second section and complete the second excercise.
-
+23. Pick up where the video lecture left off. Perform a review of content. 
+24. Watch the video lecture to review the openeing section on the content for javascript.
+25. Begin watching new video lecture content. Overview of boolean logic statments.
+26. Begin video lecture for the use of operators and the the main concept of conditional statements.
 
