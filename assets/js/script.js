@@ -33,3 +33,25 @@ else {  // states that if neither of the above tests are ran that this will be t
     alert("Too low, guess higher.") // this is the method of alert once more
 }
 */
+
+// fourth excercise
+var counter = -10;
+
+while(counter < 20){
+    console.log(counter);
+    counter++;
+}
+
+var counter = 10;
+
+while(counter < 40){
+    console.log(counter);
+    counter+=2;
+}
+
+var counter = 301;
+
+while(counter < 333){
+    console.log(counter);
+    counter+=2;
+}

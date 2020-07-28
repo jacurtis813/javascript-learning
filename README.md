@@ -46,4 +46,6 @@ Let's Begin.
 37. Introduction of loops, what they are and how they work. The full understanding of loops.
 38. Understanding while loops, the concept and the how they work. 
 39. Comment out the html file and the js file that we currently have set within learning files. Set up to perform the next excercise
-40. 
+40. Create all while loops that will assign to each of the problems notated in the landing page within the html file.
+41. Test and run all the code that we have created within our script file to perform the problems within shown in the file.
+
