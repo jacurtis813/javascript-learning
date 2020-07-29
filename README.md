@@ -52,3 +52,6 @@ Let's Begin.
 43. Create the code within the js file to perform the code along for the while loops with strings excercise.
 44. Understanding how to use the index of call to show that the key word is within the string.
 45. Test and run that all code is currently working as designed. 
+46. Create the code using the for loops, set up the four problems and comment out the current content in the js file.
+47. Create the solved solutiond for all four of the excercise using for loops. 
+48. Test and run all the code that we have created. 

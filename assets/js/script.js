@@ -54,8 +54,6 @@ while(counter < 333){
     console.log(counter);
     counter+=2;
 }
-*/
-
 
 // fifth excercise
 
@@ -66,3 +64,39 @@ while(answer !== "yes") {
 }
 
 alert("Yay, We made it!")
+
+*/
+
+//for loops section
+console.log("PRINTING ALL NUMBERS BETWEEN -10 and 19")
+
+for (var i = -10; i < 20; i++) {
+    console.log(i)
+}
+
+console.log("PRINTING ALL EVEN NUMBERS BETWEEN 10 and 40")
+
+for (var i = 10; i <= 40; i += 2) {
+    console.log(i)
+}
+
+console.log("PRINTING ALL ODD NUMBERS BETWEEN 300 and 333")
+
+
+for (var i = 300; i <= 333; i++) {
+    if (i % 2 !== 0) {
+        console.log(i);
+    }
+}
+/* first way to perform this task or...
+for(var i = 301; i<= 333; i+=2) {
+    console.log(i)
+}
+*/
+console.log("PRINTING ALL NUMBERS divisible by both 5 and 3 BETWEEN 5 and 50")
+
+for (var i = 5; i <= 50; i++) {
+    if (i % 5 === 0 && i % 3 === 0) {
+        console.log(i);
+    }
+}
