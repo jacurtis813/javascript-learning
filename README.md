@@ -48,4 +48,7 @@ Let's Begin.
 39. Comment out the html file and the js file that we currently have set within learning files. Set up to perform the next excercise
 40. Create all while loops that will assign to each of the problems notated in the landing page within the html file.
 41. Test and run all the code that we have created within our script file to perform the problems within shown in the file.
-
+42. Perform the code along to create while loops using strings rather than using numbers.
+43. Create the code within the js file to perform the code along for the while loops with strings excercise.
+44. Understanding how to use the index of call to show that the key word is within the string.
+45. Test and run that all code is currently working as designed. 

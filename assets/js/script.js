@@ -32,7 +32,6 @@ else if(guess > secretNumber) {  // states that if the guess is greater than the
 else {  // states that if neither of the above tests are ran that this will be the final stage to check/ test. if not equal alert to guess again
     alert("Too low, guess higher.") // this is the method of alert once more
 }
-*/
 
 // fourth excercise
 var counter = -10;
@@ -55,3 +54,15 @@ while(counter < 333){
     console.log(counter);
     counter+=2;
 }
+*/
+
+
+// fifth excercise
+
+var answer = prompt("Are we there yet?");
+
+while(answer !== "yes") {
+    var answer = prompt("Are we there yet?");
+}
+
+alert("Yay, We made it!")
