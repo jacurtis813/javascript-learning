@@ -65,8 +65,6 @@ while(answer !== "yes") {
 
 alert("Yay, We made it!")
 
-*/
-
 //for loops section
 console.log("PRINTING ALL NUMBERS BETWEEN -10 and 19")
 
@@ -88,11 +86,11 @@ for (var i = 300; i <= 333; i++) {
         console.log(i);
     }
 }
-/* first way to perform this task or...
+//first way to perform this task or...
 for(var i = 301; i<= 333; i+=2) {
     console.log(i)
 }
-*/
+
 console.log("PRINTING ALL NUMBERS divisible by both 5 and 3 BETWEEN 5 and 50")
 
 for (var i = 5; i <= 50; i++) {
@@ -100,3 +98,4 @@ for (var i = 5; i <= 50; i++) {
         console.log(i);
     }
 }
+*/

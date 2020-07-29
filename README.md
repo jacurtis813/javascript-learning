@@ -55,3 +55,6 @@ Let's Begin.
 46. Create the code using the for loops, set up the four problems and comment out the current content in the js file.
 47. Create the solved solutiond for all four of the excercise using for loops. 
 48. Test and run all the code that we have created. 
+49. Begin the video lecture content on javascript functions. Perform notes.
+50. Overview on functions, arguments, the return keyword and the syntax set up for a function declaration and function expression.
+51. Comment out the full js file to begin the next excercise to tie all these concepts together. Get the full understanding.
